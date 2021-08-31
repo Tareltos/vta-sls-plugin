@@ -1,0 +1,18 @@
+{
+    "name": "serverless-single-page-app-plugin",
+    "version": "1.0.3",
+    "description": "A plugin for Serverless Framework, to simplify deploying Single Page Application using S3 and CloudFront.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Tareltos/vta-sls-plugin.git"
+    },
+    "keywords": [],
+    "author": "Jonathan Conway",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Tareltos/vta-sls-plugin/issues"
+    },
+    "homepage": "htps://github.com/Tareltos/vta-sls-plugin#readme"
+  }
+  
